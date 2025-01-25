@@ -38,7 +38,7 @@ Java Training
 
    | Vector
 
-    | Stack
+   | Stack
 
 
 
