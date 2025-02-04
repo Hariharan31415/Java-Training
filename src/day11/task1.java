@@ -1,6 +1,4 @@
 package day11;
-
-
 interface Add{
 	int sum(int a , int b);
 }
