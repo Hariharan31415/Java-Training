@@ -76,4 +76,28 @@ Java Training
 
   | HashTable
 
+| DSA 
+
+  | stack 
+  | queue
+  | linked list 
+  | tree
+  | hashing
+
+| Dynamic programming
+  
+  | recursion 
+  
+| Sql 
+
+  | table creation and its operation 
+
+  
+
+
+
+  
+
+
+
   
